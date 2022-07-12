@@ -1,3 +1,9 @@
+# Forked From Kolkov
+
+## [Repository Here](https://github.com/kolkov/angular-editor)
+Reset to release 1.2, includes fixes for:
+* Image upload bug backported from [here](https://github.com/Yashiru/angular-editor/commit/b1074fa4527eca52d5aae738bcc93d63af437fb2)
+
 <p align="center">
   <img width="150px" src="https://raw.githubusercontent.com/kolkov/angular-editor/master/docs/angular-editor-logo.png?raw=true" alt="AngularEditor logo"/>
 </p>
@@ -26,7 +32,7 @@ A simple native WYSIWYG/Rich Text editor for Angular 6-12+
 
 ### Installation
 
-Install via [npm][npm] package manager 
+Install via [npm][npm] package manager
 
 ```bash
 npm install @kolkov/angular-editor --save
@@ -37,7 +43,7 @@ npm install @kolkov/angular-editor --save
 
 0.18.4 and above - for Angular v7.x.x
 
-0.15.x - for Angular v6.x.x 
+0.15.x - for Angular v6.x.x
 
 ### Usage
 
